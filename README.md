@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="Shorts Summary • Trilha Foundations (Community) (Copy).png" alt="demonstração do projeto" width="100%" />
+</p>
 
 ## 🖥️ Projeto
 
